@@ -7,8 +7,8 @@ def main(list1):
         list: return answer
     """
     i=0
-    list1=[1,0,1,1,0]
     while i<len(list1):
+        list1[:5]
         if list1[i]==1:
             list1[i]='True'
         i+=1
