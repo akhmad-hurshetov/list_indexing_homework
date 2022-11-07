@@ -10,5 +10,6 @@ def main(list1):
     while i<len(list1):
         if list1[i]==1:
             list1[i]='True'
+            list1[:-5]
         i+=1
     return list1
