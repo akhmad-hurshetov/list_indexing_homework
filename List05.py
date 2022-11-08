@@ -8,4 +8,3 @@ def main(list1,i):
         list: return answer
     """
     return list1[i]
-print(main([1,2,3,4,5],4))
