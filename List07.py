@@ -6,5 +6,7 @@ def main(list1):
     Returns:
         list: return answer
     """
-    
+    i=0
+    while i<len(list1):
+        if
     return
